@@ -1,0 +1,43 @@
+body{
+    background-image: url(bg3.jpg);
+    color: white;
+}
+.form{
+    margin-top: 6rem;
+    margin-left: 27rem;
+    height: 30rem;
+    width: 40rem;
+    background-color: rgb(70, 81, 81,0.5);
+    border: 0.1rem solid white;
+}
+input{
+    all:unset;
+    border: 0.10rem solid white;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    background-color: rgb(22, 21, 21,0.6);
+    color: white;
+}
+h2{
+    text-align: center;
+}
+label{
+    margin-top: 4rem;
+    margin-left: 10rem;
+}
+button{
+    margin-top: 4rem;
+    margin-left: 17rem;
+    border: 0.11rem solid white;
+    background-color: rgb(22, 21, 21,0.6);
+    color: white;
+    height: 2rem;
+    width: 5rem;
+}
+button:hover{
+    font-weight: bold;
+    border: 0.2rem solid white;
+}
+
+
+

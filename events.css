@@ -1,0 +1,48 @@
+body{
+    background-image: url(concert.jpg);
+    color: white;
+    font-weight: bold;
+}
+h1{
+    margin-top: 5rem;
+    text-align: center;
+    border: 0.1rem solid white;
+    background-color: rgb(70, 81, 81,0.7);
+}
+h1:hover{
+    background-color: rgba(247, 240, 240, 0.7);
+    color: black;
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+    margin-top: 5rem;
+    background-color: rgb(70, 81, 81,0.7);
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+    border: 0.1rem solid white;
+}
+th{
+    background-color: rgb(70, 81, 81,0.7);
+    border: 0.1rem solid white;
+}
+tr:hover{
+    background-color: rgba(247, 240, 240, 0.6);
+    color: black;
+}
+
+
+#back{
+    all:unset;
+    color: white;
+    font-weight: bolder;
+}
+#btn{
+    background-color: rgb(70, 81, 81,0.7);
+    border: 0.1rem solid white;
+    height: 2rem;
+    width: 5rem;
+   
+}
